@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">POSApp</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="btn_filters">FILTERS</string>
+    <string name="btn_catalog">CATALOG</string>
+    <string name="edt_search_placeholder">product name,code or UPC</string>
+    <string name="str_handbags">handbags</string>
+
+
+</resources>
